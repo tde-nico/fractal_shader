@@ -8,7 +8,7 @@ Rendering
 Python
 
 #frames and libs
-Pygame
+OpenGL
 
 -->
 
